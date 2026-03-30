@@ -10,11 +10,11 @@ Every piece of infrastructure that assumes a human operator will need an agent-n
 
 ### Products
 
-| Product | What it does | Status |
-|---|---|---|
-| **TextAPI** | Global SMS & communication API engineered for LLM consumption. MCP-ready. | `In Dev` |
+| Product     | What it does | Status |
+|-------------|---|---|
+| **Beacon**  | Agent-native messaging infrastructure. | `In Dev` |
 | **CrewBox** | Multi-agent team orchestration for solo founders. | `In Dev` |
-| **Byte** | Headless macOS AI assistant — Telegram, CLI, and desktop in one `.dmg`. | `Experimental` |
+| **Byte**    | Headless macOS AI assistant — Telegram, CLI, and desktop in one `.dmg`. | `Experimental` |
 
 ### The Lab
 
